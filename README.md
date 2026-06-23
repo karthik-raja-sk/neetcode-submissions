@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1961-maximum-ice-cream-bars](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -92,6 +93,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1961-maximum-ice-cream-bars](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
