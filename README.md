@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0643-maximum-average-subarray-i](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1961-maximum-ice-cream-bars](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Counting Sort
 |  |
 | ------- |
@@ -116,8 +118,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## String
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
