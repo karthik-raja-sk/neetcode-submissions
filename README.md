@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [1961-maximum-ice-cream-bars](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1961-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
@@ -102,4 +103,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
