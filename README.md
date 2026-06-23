@@ -96,6 +96,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Counting Sort
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1961-maximum-ice-cream-bars](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1961-maximum-ice-cream-bars) |
 ## Math
 |  |
@@ -109,5 +110,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Hash Table
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## String
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
