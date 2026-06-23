@@ -1,6 +1,6 @@
-# NeetCode Solutions Ã¢ÂÂ @karthik-raja-sk
+# NeetCode Solutions ÃÂ¢ÃÂÃÂ @karthik-raja-sk
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) ÃÂ· Repository: `neetcode-submissions`
+> Synced automatically from [NeetCode.io](https://neetcode.io) ÃÂÃÂ· Repository: `neetcode-submissions`
 
 ---
 
@@ -13,9 +13,9 @@
 ## How GitHub Sync works
 
 1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** Ã¢ÂÂ every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** Ã¢ÂÂ push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** Ã¢ÂÂ from the submission history panel on any problem page, sync or remove individual submissions.
+2. **Auto-commit** ÃÂ¢ÃÂÃÂ every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
+3. **Bulk Sync** ÃÂ¢ÃÂÃÂ push all your past solutions at once from the GitHub settings page.
+4. **Manual sync** ÃÂ¢ÃÂÃÂ from the submission history panel on any problem page, sync or remove individual submissions.
 
 ---
 
@@ -26,8 +26,8 @@ Solutions are organized by topic folder, then problem ID. Each submission is sto
 ```
 <topic-folder>/
   <problem-id>/
-    submission-0.<ext>   Ã¢ÂÂ first submission
-    submission-1.<ext>   Ã¢ÂÂ second submission
+    submission-0.<ext>   ÃÂ¢ÃÂÃÂ first submission
+    submission-1.<ext>   ÃÂ¢ÃÂÃÂ second submission
     ...
 ```
 
@@ -62,10 +62,10 @@ Python For Beginners/python-hello-world/submission-0.py
 
 Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
 
-- **Auto-commit toggle** Ã¢ÂÂ enable or disable automatic commits on submission
-- **Status filter** Ã¢ÂÂ sync all submissions or accepted only
-- **Rename repository** Ã¢ÂÂ rename this repo or start fresh with a new one
-- **Bulk Sync** Ã¢ÂÂ push all past solutions at once (rate-limited)
+- **Auto-commit toggle** ÃÂ¢ÃÂÃÂ enable or disable automatic commits on submission
+- **Status filter** ÃÂ¢ÃÂÃÂ sync all submissions or accepted only
+- **Rename repository** ÃÂ¢ÃÂÃÂ rename this repo or start fresh with a new one
+- **Bulk Sync** ÃÂ¢ÃÂÃÂ push all past solutions at once (rate-limited)
 
 ---
 
@@ -94,4 +94,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1961-maximum-ice-cream-bars) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
