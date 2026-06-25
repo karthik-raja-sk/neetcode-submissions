@@ -1,6 +1,6 @@
-# NeetCode Solutions ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ @karthik-raja-sk
+# NeetCode Solutions ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ @karthik-raja-sk
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Repository: `neetcode-submissions`
+> Synced automatically from [NeetCode.io](https://neetcode.io) ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ· Repository: `neetcode-submissions`
 
 ---
 
@@ -13,9 +13,9 @@
 ## How GitHub Sync works
 
 1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ from the submission history panel on any problem page, sync or remove individual submissions.
+2. **Auto-commit** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
+3. **Bulk Sync** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ push all your past solutions at once from the GitHub settings page.
+4. **Manual sync** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ from the submission history panel on any problem page, sync or remove individual submissions.
 
 ---
 
@@ -26,8 +26,8 @@ Solutions are organized by topic folder, then problem ID. Each submission is sto
 ```
 <topic-folder>/
   <problem-id>/
-    submission-0.<ext>   ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ first submission
-    submission-1.<ext>   ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ second submission
+    submission-0.<ext>   ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ first submission
+    submission-1.<ext>   ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ second submission
     ...
 ```
 
@@ -62,10 +62,10 @@ Python For Beginners/python-hello-world/submission-0.py
 
 Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
 
-- **Auto-commit toggle** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ enable or disable automatic commits on submission
-- **Status filter** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ sync all submissions or accepted only
-- **Rename repository** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ rename this repo or start fresh with a new one
-- **Bulk Sync** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ push all past solutions at once (rate-limited)
+- **Auto-commit toggle** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ enable or disable automatic commits on submission
+- **Status filter** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ sync all submissions or accepted only
+- **Rename repository** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ rename this repo or start fresh with a new one
+- **Bulk Sync** ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ push all past solutions at once (rate-limited)
 
 ---
 
@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0209-minimum-size-subarray-sum](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1961-maximum-ice-cream-bars](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -111,6 +112,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0050-powx-n) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Recursion
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## String
@@ -139,5 +142,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3731-sum-of-variable-length-subarrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 <!---LeetCode Topics End-->
