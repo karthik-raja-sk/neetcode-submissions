@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0343-integer-break) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
