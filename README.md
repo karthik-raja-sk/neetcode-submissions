@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [4299-concatenate-array-with-reverse](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/4299-concatenate-array-with-reverse) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
