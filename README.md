@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0182-duplicate-emails) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0620-not-boring-movies) |
 | [1827-invalid-tweets](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1827-invalid-tweets) |
