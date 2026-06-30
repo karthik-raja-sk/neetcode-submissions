@@ -35,6 +35,7 @@
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0182-duplicate-emails) |
 | [0620-not-boring-movies](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0620-not-boring-movies) |
 | [1827-invalid-tweets](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1908-recyclable-and-low-fat-products) |
