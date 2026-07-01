@@ -41,6 +41,7 @@
 | [0610-triangle-judgement](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0627-swap-sex-of-employees) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1908-recyclable-and-low-fat-products) |
