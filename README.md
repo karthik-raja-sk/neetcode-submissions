@@ -51,4 +51,8 @@
 | [1827-invalid-tweets](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/2024-calculate-special-bonus) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
