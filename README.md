@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0067-add-binary) |
 | [0319-bulb-switcher](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0343-integer-break) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -31,6 +32,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0067-add-binary) |
 | [4299-concatenate-array-with-reverse](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/4299-concatenate-array-with-reverse) |
 ## Database
 |  |
@@ -54,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0067-add-binary) |
 | [1108-defanging-an-ip-address](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1108-defanging-an-ip-address) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3110-score-of-a-string](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3110-score-of-a-string) |
@@ -61,4 +64,8 @@
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
