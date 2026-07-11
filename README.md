@@ -61,6 +61,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0067-add-binary) |
 | [1108-defanging-an-ip-address](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/karthik-raja-sk/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3110-score-of-a-string](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
