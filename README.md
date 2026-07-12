@@ -27,6 +27,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karthik-raja-sk/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0283-move-zeroes](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0283-move-zeroes) |
+| [3226-minimum-number-game](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3226-minimum-number-game) |
 | [4299-concatenate-array-with-reverse](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/4299-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/0067-add-binary) |
+| [3226-minimum-number-game](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3226-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [4299-concatenate-array-with-reverse](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/4299-concatenate-array-with-reverse) |
 ## Database
@@ -79,4 +81,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karthik-raja-sk/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/karthik-raja-sk/neetcode-submissions/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
